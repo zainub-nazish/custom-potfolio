@@ -17,10 +17,10 @@ function About() {
                         className="header-image"
                         alt="Profile" />
                         <div className="social-icon">
-                        <FaGithub className="s-icon1"/>
-                        <Link href="">  </Link> 
-                        <FaLinkedin className="s-icon2"/>
-                        <Link href=""></Link>
+                        
+                        <Link href="https://github.com/zainub-nazish">  <FaGithub className="s-icon1"/></Link> 
+                       
+                        <Link href="https://www.linkedin.com/in/zainub-nazish-62494926a/"> <FaLinkedin className="s-icon2"/></Link>
 
 
                         </div>
