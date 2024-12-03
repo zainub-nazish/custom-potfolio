@@ -1,0 +1,14 @@
+.social-icon{
+    display: flex;
+    justify-content: center ;
+     align-items: center;
+}
+
+.s-icon1{
+    font-size: 31px;
+    margin: 5px;
+}
+.s-icon2{
+    font-size: 31px;
+    color: rgb(9, 128, 175);
+}
